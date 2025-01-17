@@ -5,7 +5,7 @@ $username = "root";
 $password = "password"; // Replace with your database password
 $dbname = "dictionary";
 
-// Create a database connection
+// Create a database connection .....
 $conn = new mysqli($servername, $username, $password, $dbname);
 
 // Check connection
