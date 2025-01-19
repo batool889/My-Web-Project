@@ -1,8 +1,0 @@
-#!/bin/bash
-
-git pull origin main
-
-# Push to GitHub
-git add .
-git commit -m "Automated update"
-git push origin main
